@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Hotel Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_room_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_room_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|f:\\hotel management\\admin_adduserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_adduserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\clientlnfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:clientlnfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\hoteldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:hoteldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_room_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_room_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_room_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_room_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\staff_bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:staff_bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\staff_bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:staff_bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\database\\hotel.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:database\\hotel.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\clientlnfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:clientlnfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\clientlnfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:clientlnfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|F:\\Hotel Management\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DC1530-7125-4C08-9AF2-A87FE3ED32DF}|Hotel Management.csproj|solutionrelative:staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clientlnfo.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\clientlnfo.cs",
+              "RelativeDocumentMoniker": "clientlnfo.cs",
+              "ToolTip": "F:\\Hotel Management\\clientlnfo.cs [Design]",
+              "RelativeToolTip": "clientlnfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:36:15.421Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "staff_BookRoom.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\staff_BookRoom.cs",
+              "RelativeDocumentMoniker": "staff_BookRoom.cs",
+              "ToolTip": "F:\\Hotel Management\\staff_BookRoom.cs",
+              "RelativeToolTip": "staff_BookRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:02:52.204Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin_room_Form.Designer.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_room_Form.Designer.cs",
+              "RelativeDocumentMoniker": "admin_room_Form.Designer.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_room_Form.Designer.cs*",
+              "RelativeToolTip": "admin_room_Form.Designer.cs*",
+              "ViewState": "AQIAAOoAAAAAAAAAAADgvywBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:27:59.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin_dashboard.Designer.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "admin_dashboard.Designer.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_dashboard.Designer.cs",
+              "RelativeToolTip": "admin_dashboard.Designer.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAADgvwgBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:15:06.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin_addUserForm.Designer.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_addUserForm.Designer.cs",
+              "RelativeDocumentMoniker": "admin_addUserForm.Designer.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_addUserForm.Designer.cs",
+              "RelativeToolTip": "admin_addUserForm.Designer.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAADgv/sAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:17:01.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin_customers.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_customers.cs",
+              "RelativeDocumentMoniker": "admin_customers.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_customers.cs [Design]",
+              "RelativeToolTip": "admin_customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:39:45.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin_addUserForm.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_addUserForm.cs",
+              "RelativeDocumentMoniker": "admin_addUserForm.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_addUserForm.cs [Design]",
+              "RelativeToolTip": "admin_addUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:17:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin_addUserForm.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_addUserForm.cs",
+              "RelativeDocumentMoniker": "admin_addUserForm.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_addUserForm.cs",
+              "RelativeToolTip": "admin_addUserForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:23:13.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "F:\\Hotel Management\\AdminForm.cs*",
+              "RelativeToolTip": "AdminForm.cs*",
+              "ViewState": "AQIAAC4AAAAAAAAAAADgv0MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:15:47.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "F:\\Hotel Management\\AdminForm.cs [Design]*",
+              "RelativeToolTip": "AdminForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:45:05.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "customersData.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\customersData.cs",
+              "RelativeDocumentMoniker": "customersData.cs",
+              "ToolTip": "F:\\Hotel Management\\customersData.cs",
+              "RelativeToolTip": "customersData.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA4wB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:50:03.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "F:\\Hotel Management\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:33:55.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Hotel Management\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:45:11.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hotelData.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\hotelData.cs",
+              "RelativeDocumentMoniker": "hotelData.cs",
+              "ToolTip": "F:\\Hotel Management\\hotelData.cs",
+              "RelativeToolTip": "hotelData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:27:20.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "admin_customers.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_customers.cs",
+              "RelativeDocumentMoniker": "admin_customers.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_customers.cs",
+              "RelativeToolTip": "admin_customers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:10:08.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "admin_dashboard.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_dashboard.cs",
+              "RelativeDocumentMoniker": "admin_dashboard.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_dashboard.cs [Design]",
+              "RelativeToolTip": "admin_dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:28:42.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "admin_customers.Designer.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_customers.Designer.cs",
+              "RelativeDocumentMoniker": "admin_customers.Designer.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_customers.Designer.cs",
+              "RelativeToolTip": "admin_customers.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:28:11.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admin_room_Form.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_room_Form.cs",
+              "RelativeDocumentMoniker": "admin_room_Form.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_room_Form.cs [Design]",
+              "RelativeToolTip": "admin_room_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:14:09.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "admin_dashboard.resx",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_dashboard.resx",
+              "RelativeDocumentMoniker": "admin_dashboard.resx",
+              "ToolTip": "F:\\Hotel Management\\admin_dashboard.resx",
+              "RelativeToolTip": "admin_dashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-15T06:18:39.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "admin_room_Form.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_room_Form.cs",
+              "RelativeDocumentMoniker": "admin_room_Form.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_room_Form.cs",
+              "RelativeToolTip": "admin_room_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:26:14.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "admin_dashboard.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\admin_dashboard.cs",
+              "RelativeDocumentMoniker": "admin_dashboard.cs",
+              "ToolTip": "F:\\Hotel Management\\admin_dashboard.cs",
+              "RelativeToolTip": "admin_dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:20:19.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clientlnfo.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\clientlnfo.cs",
+              "RelativeDocumentMoniker": "clientlnfo.cs",
+              "ToolTip": "F:\\Hotel Management\\clientlnfo.cs",
+              "RelativeToolTip": "clientlnfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:10:00.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "staff_BookRoom.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\staff_BookRoom.cs",
+              "RelativeDocumentMoniker": "staff_BookRoom.cs",
+              "ToolTip": "F:\\Hotel Management\\staff_BookRoom.cs [Design]",
+              "RelativeToolTip": "staff_BookRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:02:48.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "F:\\Hotel Management\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:01:41.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Hotel.sql ",
+              "DocumentMoniker": "F:\\Hotel Management\\database\\Hotel.sql",
+              "RelativeDocumentMoniker": "database\\Hotel.sql",
+              "ToolTip": "F:\\Hotel Management\\database\\Hotel.sql",
+              "RelativeToolTip": "database\\Hotel.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T21:44:43.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "roomsData.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\roomsData.cs",
+              "RelativeDocumentMoniker": "roomsData.cs",
+              "ToolTip": "F:\\Hotel Management\\roomsData.cs",
+              "RelativeToolTip": "roomsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:23:17.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clientlnfo.Designer.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\clientlnfo.Designer.cs",
+              "RelativeDocumentMoniker": "clientlnfo.Designer.cs",
+              "ToolTip": "F:\\Hotel Management\\clientlnfo.Designer.cs",
+              "RelativeToolTip": "clientlnfo.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:38:46.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Hotel Management\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:20:39.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "staffMainForm.cs",
+              "DocumentMoniker": "F:\\Hotel Management\\staffMainForm.cs",
+              "RelativeDocumentMoniker": "staffMainForm.cs",
+              "ToolTip": "F:\\Hotel Management\\staffMainForm.cs",
+              "RelativeToolTip": "staffMainForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAawC8AAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:21:09.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "staffMainForm.cs [Design]",
+              "DocumentMoniker": "F:\\Hotel Management\\staffMainForm.cs",
+              "RelativeDocumentMoniker": "staffMainForm.cs",
+              "ToolTip": "D:\\Code winform\\Hotel Management\\staffMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:16:09.256Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
